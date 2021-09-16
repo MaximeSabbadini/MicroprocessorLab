@@ -1,0 +1,6 @@
+09:19:11 **** Incremental Build of configuration Debug for project LPC55S69_Project1 ****
+make -r -j3 all 
+make: Nothing to be done for 'all'.
+
+09:19:12 Build Finished. 0 errors, 0 warnings. (took 600ms)
+
